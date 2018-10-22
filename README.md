@@ -2,9 +2,9 @@
 
 ## Instructions
 
-Create a new private GitHub or Bitbucket repository and push your commits to it as you are completing the challenge.
+Create a new private GitHub repository and push your commits to it as you are completing the challenge.
 
-Once you are ready, add someone from the Outlook Mobile team to the repository and send an email for us to review it.
+Once you are ready, please download a copy of the repo and attach it to an email for us to review.
 
 Please include a short introduction about yourself either in the README or as part of the email.
 
@@ -118,7 +118,7 @@ Write unit tests for critical parts of your app. The process of writing tests fo
 
 ## Challenges
 
-### [iOS Engineer Challenge - Calendar and Agenda Views](instructions/ios/ios-engineer.md)
+### [iOS Engineer Challenge - Contacts App](instructions/ios/ios-engineer.md)
 
 ### [Android Engineer Challenge - Calendar and Agenda Views](instructions/android/android-engineer.md)
 
