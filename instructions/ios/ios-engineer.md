@@ -6,10 +6,7 @@ The first part is completing this coding challenge. This is your chance to show 
 
 The second part is an on-site interview. In this interview, we may ask you questions about your project, and a couple of technical questions, but most of the focus is on making sure we will be a good fit.
 
-Please complete this challenge and send a zip copy to:
-
-- Corbin Reynolds (email: coreynol@microsoft.com)
-- Eddie Kim (email: edki@microsoft.com)
+Please complete this challenge and send a zip copy to your recruiting contact.
 
 ## Requirements
 
